@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<head>
+	<meta charset="utf-8">
+	<title>Portal to Pluto</title>
+	<h5>Content Courtesy of Maxx Abigail Bowman</h5>
+	#home {
+		background-color: black;
+		text-color: white;
+		font-family: monospace, serif;
+	}
+	* {
+		box-sizing: border-box
+	}
+</head>
+<main id="home">
+	<div>
+		<img src="gallery.png" alt="The Archives">
+		<h1>Gallery Space</h1>
+	</div>
+	<div>
+		<img src="reallykip.png" alt="Dangling Mouse">
+		<h1>Kips Adventures</h1>
+	</div>
+	<div>
+		<img src="emailboxes.png" alt="Contacts">
+		<h1>Contact</h1>
+	</div>
+	<div>
+		<img src="squiggles.png" alt="Recipe Book">
+		<h1>Blog</h1>
+	</div>
+</main>
+</body>
+</html>
