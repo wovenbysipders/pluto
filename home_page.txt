@@ -24,7 +24,7 @@
 		<h1>Kips Adventures</h1>
 	</div>
 	<div>
-		<img src="emailboxes.png" alt="Contacts">
+		<img src="emailboxes.png" alt="Contact">
 		<h1>Contact</h1>
 	</div>
 	<div>
